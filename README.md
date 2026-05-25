@@ -3,13 +3,13 @@ A voice-based AI assistant built using Python that can perform tasks like openin
 
 ---
 
-Features
-- Voice command recognition
+Features**
+**- Voice command recognition
 - Web search functionality
 - Open applictaions (Chrome, VS Code, etc.)
 - Text-to-speech response
 
-  Technology Used
+**  Technology Used**
   - Python
   - SpeechRecognition
   - pyttsx3
